@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>\\ANDRE-PC\inetpub\wwwroot\britaniajoiasi</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Account/AddPhoneNumber.aspx">
+      <publishTime>08/31/2018 22:32:56</publishTime>
+    </File>
+    <File Include="Account/Confirm.aspx">
+      <publishTime>08/31/2018 22:32:56</publishTime>
+    </File>
+    <File Include="Account/Forgot.aspx">
+      <publishTime>08/31/2018 22:32:56</publishTime>
+    </File>
+    <File Include="Account/Lockout.aspx">
+      <publishTime>08/31/2018 22:32:56</publishTime>
+    </File>
+    <File Include="Account/Login.aspx">
+      <publishTime>08/31/2018 22:32:56</publishTime>
+    </File>
+    <File Include="Account/Manage.aspx">
+      <publishTime>08/31/2018 22:32:57</publishTime>
+    </File>
+    <File Include="Account/ManageLogins.aspx">
+      <publishTime>08/31/2018 22:32:57</publishTime>
+    </File>
+    <File Include="Account/ManagePassword.aspx">
+      <publishTime>08/31/2018 22:32:57</publishTime>
+    </File>
+    <File Include="Account/OpenAuthProviders.ascx">
+      <publishTime>08/31/2018 22:32:57</publishTime>
+    </File>
+    <File Include="Account/Register.aspx">
+      <publishTime>08/31/2018 22:32:57</publishTime>
+    </File>
+    <File Include="Account/RegisterExternalLogin.aspx">
+      <publishTime>08/31/2018 22:32:57</publishTime>
+    </File>
+    <File Include="Account/ResetPassword.aspx">
+      <publishTime>08/31/2018 22:32:57</publishTime>
+    </File>
+    <File Include="Account/ResetPasswordConfirmation.aspx">
+      <publishTime>08/31/2018 22:32:57</publishTime>
+    </File>
+    <File Include="Account/TwoFactorAuthenticationSignIn.aspx">
+      <publishTime>08/31/2018 22:32:58</publishTime>
+    </File>
+    <File Include="Account/VerifyPhoneNumber.aspx">
+      <publishTime>08/31/2018 22:32:58</publishTime>
+    </File>
+    <File Include="Account/Web.config">
+      <publishTime>08/31/2018 22:32:58</publishTime>
+    </File>
+    <File Include="Administrador.Master">
+      <publishTime>09/10/2018 03:24:29</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>08/31/2018 22:32:28</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.bootstrap.dll">
+      <publishTime>08/31/2018 22:32:32</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.jQuery.dll">
+      <publishTime>08/31/2018 22:32:33</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>08/31/2018 22:33:01</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>08/31/2018 22:33:02</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.FriendlyUrls.dll">
+      <publishTime>08/31/2018 22:32:39</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>08/31/2018 22:33:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
+      <publishTime>08/31/2018 22:33:09</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>08/31/2018 22:33:09</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Web.Optimization.WebForms.dll">
+      <publishTime>08/31/2018 22:32:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>08/31/2018 22:33:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>08/31/2018 22:33:11</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>08/31/2018 22:33:13</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>08/31/2018 22:33:12</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Facebook.dll">
+      <publishTime>08/31/2018 22:33:12</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Google.dll">
+      <publishTime>08/31/2018 22:33:13</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.MicrosoftAccount.dll">
+      <publishTime>08/31/2018 22:33:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>08/31/2018 22:33:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Twitter.dll">
+      <publishTime>08/31/2018 22:33:13</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ScriptManager.MSAjax.dll">
+      <publishTime>08/31/2018 22:32:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ScriptManager.WebForms.dll">
+      <publishTime>08/31/2018 22:32:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>08/31/2018 22:32:36</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>08/31/2018 22:32:30</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>08/31/2018 22:33:14</publishTime>
+    </File>
+    <File Include="bin/ProjetoBritaniaWeb.dll">
+      <publishTime>09/12/2018 16:34:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>08/31/2018 22:32:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.Providers.dll">
+      <publishTime>08/31/2018 22:33:10</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>08/31/2018 22:32:28</publishTime>
+    </File>
+    <File Include="Bundle.config">
+      <publishTime>08/31/2018 22:32:10</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>08/31/2018 22:32:27</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>08/31/2018 22:32:27</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>08/31/2018 22:32:58</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>09/09/2018 16:14:18</publishTime>
+    </File>
+    <File Include="EntradaPedido.aspx">
+      <publishTime>09/09/2018 16:22:46</publishTime>
+    </File>
+    <File Include="EntradaPedidoUser.aspx">
+      <publishTime>09/07/2018 17:17:41</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>08/31/2018 22:32:10</publishTime>
+    </File>
+    <File Include="FecharPedido.aspx">
+      <publishTime>09/10/2018 01:28:02</publishTime>
+    </File>
+    <File Include="FecharPedidoUser.aspx">
+      <publishTime>09/08/2018 11:24:47</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>08/31/2018 22:32:27</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>08/31/2018 22:32:27</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>08/31/2018 22:32:27</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>08/31/2018 22:32:27</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>08/31/2018 22:32:10</publishTime>
+    </File>
+    <File Include="Home.aspx">
+      <publishTime>08/31/2018 23:28:08</publishTime>
+    </File>
+    <File Include="Imagens/delete.png">
+      <publishTime>09/07/2018 23:47:27</publishTime>
+    </File>
+    <File Include="Imagens/Marcasistema.png">
+      <publishTime>08/25/2018 18:04:20</publishTime>
+    </File>
+    <File Include="ImprimirCompromisso.aspx">
+      <publishTime>09/09/2018 20:37:58</publishTime>
+    </File>
+    <File Include="ImprimirPedidoAberto.aspx">
+      <publishTime>09/11/2018 19:36:39</publishTime>
+    </File>
+    <File Include="ImprimirPedidoAbertoI.aspx">
+      <publishTime>09/09/2018 23:03:05</publishTime>
+    </File>
+    <File Include="ImprimirPedidoFechado.aspx">
+      <publishTime>09/10/2018 01:58:48</publishTime>
+    </File>
+    <File Include="ImprimirPedidoFechadoI.aspx">
+      <publishTime>09/10/2018 02:54:07</publishTime>
+    </File>
+    <File Include="ImprimirRecibo.aspx">
+      <publishTime>09/10/2018 00:14:30</publishTime>
+    </File>
+    <File Include="ImprimirRelatorioAberto.aspx">
+      <publishTime>09/10/2018 00:47:13</publishTime>
+    </File>
+    <File Include="ImprimirResponsabilidade.aspx">
+      <publishTime>09/07/2018 21:50:41</publishTime>
+    </File>
+    <File Include="ListPedidosAbertos.aspx">
+      <publishTime>09/10/2018 02:18:12</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>08/31/2018 22:33:14</publishTime>
+    </File>
+    <File Include="Recibo.aspx">
+      <publishTime>09/09/2018 23:44:15</publishTime>
+    </File>
+    <File Include="RelatorioPedidoAberto.aspx">
+      <publishTime>09/10/2018 02:19:48</publishTime>
+    </File>
+    <File Include="Sair.aspx">
+      <publishTime>09/10/2018 03:02:46</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>08/31/2018 22:32:27</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>08/31/2018 22:32:27</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>08/31/2018 22:32:14</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>08/31/2018 22:32:14</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>08/31/2018 22:32:14</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>08/31/2018 22:32:27</publishTime>
+    </File>
+    <File Include="Scripts/respond.js">
+      <publishTime>08/31/2018 22:32:26</publishTime>
+    </File>
+    <File Include="Scripts/respond.min.js">
+      <publishTime>08/31/2018 22:32:26</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/DetailsView.js">
+      <publishTime>08/31/2018 22:32:36</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/Focus.js">
+      <publishTime>08/31/2018 22:32:36</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/GridView.js">
+      <publishTime>08/31/2018 22:32:36</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/Menu.js">
+      <publishTime>08/31/2018 22:32:36</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MenuStandards.js">
+      <publishTime>08/31/2018 22:32:36</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjax.js">
+      <publishTime>08/31/2018 22:32:34</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxApplicationServices.js">
+      <publishTime>08/31/2018 22:32:34</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxComponentModel.js">
+      <publishTime>08/31/2018 22:32:34</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxCore.js">
+      <publishTime>08/31/2018 22:32:34</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxGlobalization.js">
+      <publishTime>08/31/2018 22:32:34</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxHistory.js">
+      <publishTime>08/31/2018 22:32:34</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxNetwork.js">
+      <publishTime>08/31/2018 22:32:34</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxSerialization.js">
+      <publishTime>08/31/2018 22:32:34</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxTimer.js">
+      <publishTime>08/31/2018 22:32:34</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxWebForms.js">
+      <publishTime>08/31/2018 22:32:34</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxWebServices.js">
+      <publishTime>08/31/2018 22:32:34</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/SmartNav.js">
+      <publishTime>08/31/2018 22:32:36</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/TreeView.js">
+      <publishTime>08/31/2018 22:32:36</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/WebForms.js">
+      <publishTime>08/31/2018 22:32:36</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/WebParts.js">
+      <publishTime>08/31/2018 22:32:36</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/WebUIValidation.js">
+      <publishTime>08/31/2018 22:32:36</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>08/31/2018 22:32:27</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>08/31/2018 22:32:58</publishTime>
+    </File>
+    <File Include="Site.Mobile.Master">
+      <publishTime>08/31/2018 22:32:39</publishTime>
+    </File>
+    <File Include="TermoCompromisso.aspx">
+      <publishTime>09/07/2018 22:59:31</publishTime>
+    </File>
+    <File Include="TermoResponsabilidade.aspx">
+      <publishTime>09/07/2018 23:15:10</publishTime>
+    </File>
+    <File Include="ViewSwitcher.ascx">
+      <publishTime>08/31/2018 22:32:39</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/12/2018 16:34:20</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
